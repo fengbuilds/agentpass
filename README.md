@@ -1,3 +1,7 @@
+**Live product / 产品页：https://fengbuilds.github.io/agentpass/**
+
+**Contract (BNB Chain): 0xef5EA1277Ed12E6FAf8383ddDDC14F0934543019**
+
 # AgentPass — Agent ID Holders' Daily Check-In
 
 A daily check-in dApp on BNB Smart Chain, gated by **Binance Agent ID** (.ai).
